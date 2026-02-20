@@ -1,5 +1,26 @@
 # github_first_steps
 
+# TODO
+- [ ] Variables
+- [ ] Conditionals
+- [ ] Loops
+- [ ] Functions
+- [ ] Data structures (lists, dictionary)
+- [ ] File I/O
+- [ ] Classes
+- [ ] Modules/Libraries
+---
+- [ ] Databases
+- [ ] SQL 
+- [ ] Flask
+- [ ] HTML 
+- [ ] CSS
+- [ ] Javascript
+- [ ] Forms
+---
+- [ ] Exceptions
+- [ ] Unit test
+
 ## Tools
 
 - python 3.12
