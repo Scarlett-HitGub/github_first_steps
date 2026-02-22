@@ -1,10 +1,10 @@
 # github_first_steps
 
 # TODO
-- [ ] Variables
+- [x] Variables
 - [ ] Conditionals
 - [ ] Loops
-- [ ] Functions
+- [x] Functions
 - [ ] Data structures (lists, dictionary)
 - [ ] File I/O
 - [ ] Classes
