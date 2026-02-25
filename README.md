@@ -3,7 +3,7 @@
 # TODO
 - [x] Variables
 - [x] Conditionals
-- [ ] Loops
+- [x] Loops
 - [x] Functions
 - [ ] Data structures (lists, dictionary)
 - [ ] File I/O
