@@ -5,7 +5,7 @@
 - [x] Conditionals
 - [x] Loops
 - [x] Functions
-- [ ] Data structures (lists, dictionary)
+- [x] Data structures (lists, dictionary)
 - [ ] File I/O
 - [ ] Classes
 - [ ] Modules/Libraries
