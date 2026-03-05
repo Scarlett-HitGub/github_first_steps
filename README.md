@@ -8,7 +8,7 @@
 - [x] Data structures (lists, dictionary)
 - [ ] File I/O
 - [ ] Classes
-- [ ] Modules/Libraries
+- [x] Modules/Libraries
 ---
 - [ ] Databases
 - [ ] SQL 
